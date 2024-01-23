@@ -24,13 +24,13 @@
  	- Herramientas para desarrollo de aplicaciones web con lenguaje JavaScript
 
 * Grupo 05
-		- Metodologías de desarrollo de software
+	- Metodologías de desarrollo de software
 
 * Grupo 06
-		- Herramientas para ciencia de datos en lenguaje Java
+	- Herramientas para ciencia de datos en lenguaje Java
 
 * Grupo 07
-		- Herramientas para ciencia de datos en lenguaje Python
+	- Herramientas para ciencia de datos en lenguaje Python
 
 * Grupo 08
-	 	- Herramientas para desarrollo de aplicaciones web con lenguaje JavaScript
+	 - Herramientas para desarrollo de aplicaciones web con lenguaje JavaScript
