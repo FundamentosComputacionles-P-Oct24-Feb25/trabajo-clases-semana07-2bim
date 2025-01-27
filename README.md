@@ -7,30 +7,24 @@
 
 1. Reunión del grupo
 2. Identificación de fuentes de información
-3. Creación de una cartel informativo de lo investigado
+3. Creación de un mapa mental de lo investigado
 
-### Grupos
+Ejemplo de mapa menta
+![image](https://github.com/user-attachments/assets/688e4642-41dc-4654-8996-e6bc602579bb)
 
-* Grupo 01
+
+### Temas
+
+* Tema 01
 	- Metodologías de desarrollo de software
 
-* Grupo 02
+* Tema 02
 	- Herramientas para ciencia de datos en lenguaje Java
 
-* Grupo 03
+* Tema 03
 	- Herramientas para ciencia de datos en lenguaje Python
 
-* Grupo 04
+* Tema 04
  	- Herramientas para desarrollo de aplicaciones web con lenguaje JavaScript
 
-* Grupo 05
-	- Metodologías de desarrollo de software
-
-* Grupo 06
-	- Herramientas para ciencia de datos en lenguaje Java
-
-* Grupo 07
-	- Herramientas para ciencia de datos en lenguaje Python
-
-* Grupo 08
-	 - Herramientas para desarrollo de aplicaciones web con lenguaje JavaScript
+  
